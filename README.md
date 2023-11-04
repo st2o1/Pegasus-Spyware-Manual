@@ -1,2 +1,1 @@
-# Pegasus-Spyware-Manual
-Pegasus Spyware Manual.
+# Pegasus Spyware Manual from 2012.
